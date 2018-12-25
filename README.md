@@ -3,5 +3,5 @@
 * my name is 1
 * my name is 2
 # Testing
-a <- available.packages()
+a <-- available.packages()
 
